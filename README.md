@@ -33,7 +33,9 @@ Serverless, pay-per-use design with AWS Lambda, DynamoDB & API Gateway
 Static leaderboard frontend served via S3 + CloudFront
 
 Final Result
-![Uploading image.png…]()
+
+<img width="1845" height="966" alt="image" src="https://github.com/user-attachments/assets/9a378cb6-1861-4dbf-a319-404930d70cf9" />
+
 
 
   The result is really worth the effort, Happy clouding
