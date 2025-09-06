@@ -63,3 +63,5 @@ def compute_scores(profiles, reels_map, N=10):
     rows.sort(key=lambda x: x["score"], reverse=True)
     return rows
 
+
+
