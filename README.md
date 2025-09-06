@@ -28,6 +28,8 @@ Real-time influencer ranking (updates every hour via Lambda + EventBridge)
 Synthetic data for demo purposes (plug-and-play with real data via Instagrapi)
 Serverless, pay-per-use design with AWS Lambda, DynamoDB & API Gateway
 
+Static leaderboard frontend served via S3 + CloudFront
+
 ## Lambda instructions
 
 4 Lambda Functions has to be created
@@ -43,8 +45,6 @@ db.py
 ranking.py
 
 
-
-Static leaderboard frontend served via S3 + CloudFront
 
 ## S3 instructions
 
